@@ -17,14 +17,15 @@
 <p align="center">
   <img src="Screenshots/Screenshot (1).png" width="400">
   <img src="Screenshots/Screenshot (2).png" width="400">
- <img src="Screenshots/Screenshot (3).png" width="400">
 </p>
 <p align="center">
+  <img src="Screenshots/Screenshot (3).png" width="400">
   <img src="Screenshots/Screenshot (4).png" width="400">
-  <img src="Screenshots/Screenshot (5).png" width="400">
- <img src="Screenshots/Screenshot (6).png" width="400">
 </p>
-
+<p align="center">
+  <img src="Screenshots/Screenshot (5).png" width="400">
+  <img src="Screenshots/Screenshot (6).png" width="400">
+</p>
 📥 دانلود و نصب
 
 راهنمای نصب و آخرین نسخه فارسی‌ساز در بخش Releases قرار می‌گیرد.
